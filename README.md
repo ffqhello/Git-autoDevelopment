@@ -1,0 +1,2 @@
+# Git-autoDevelopment
+git的自动部署，主要是通过restful原则去调用github上的repository并在本地机器上进行自动部署以及更新等相关操作。
